@@ -1,0 +1,23 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is the Git basic learning project",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "keywords": [
+    "0321"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanglijhu/git-test.git"
+  },
+  "author": "Li Tang",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
